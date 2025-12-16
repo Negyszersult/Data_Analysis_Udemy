@@ -1,5 +1,24 @@
-#Python (Numpy, Pandas, Matplotlib)
-#Statistics, Feature Engineering, EDA SQL, Power BI, DAX, Excel, Tableau, Snowflake, AWS
+### Documentation of the Complete Data Analyst Bootcamp From Basics To Advanced course from Udemy
+The link of the course: https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/
 
+---
 
-https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/
+## Python 
+Basic of Python
+Examples for Numpy, Pandas, Matplotlib, Seaborn
+
+---
+
+## Statistics
+Descriptive Statistics
+Probality Distribution Function and Types of Distribution
+Inferential Stats and Hypothesis Testing
+
+---
+
+## Feature Engineering with Python
+Handling Missing Values
+SMOTE
+Encoding
+
+## Exploratory Data Analysis (EDA)
