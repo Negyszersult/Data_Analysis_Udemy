@@ -34,7 +34,7 @@ Examples for most used Statements, Clauses, Operators
 Basic Questions  
 Assigments  
 SQL Functions  
-Advances SQL  
+Advanced SQL  
 Important SQL Questions  
 
 ---
