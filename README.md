@@ -41,4 +41,5 @@ Important SQL Questions
 
 ## Power BI  
 Data Visualization  
-Power Query Editor
+Power Query Editor  
+DAX
