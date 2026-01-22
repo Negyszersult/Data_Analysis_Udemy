@@ -43,3 +43,8 @@ Important SQL Questions
 Data Visualization  
 Power Query Editor  
 DAX
+Projects
+
+---
+
+## EXCEL
