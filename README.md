@@ -54,4 +54,6 @@ String Functions
 Aggregation Functions  
 VLookUp  
 XLookUp  
-Pivot Table
+Pivot Table  
+Dashboards  
+Power Query Editor
